@@ -1,1 +1,2 @@
-readmi
+readmi fayl qoshildi
+
